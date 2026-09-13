@@ -1,0 +1,31 @@
+# Xcode
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcworkspace
+!*.xcworkspace/contents.xcworkspacedata
+*.xcuserstate
+project.xcworkspace/
+
+# Build
+build/
+DerivedData/
+*.ipa
+*.app
+*.swiftmodule
+*.swiftdoc
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
